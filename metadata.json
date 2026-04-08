@@ -1,0 +1,5 @@
+{
+  "name": "Harmonic Monolith",
+  "description": "An immersive, high-end music learning experience powered by Gemini Intelligence and Firebase.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
